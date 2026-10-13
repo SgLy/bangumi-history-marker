@@ -1,0 +1,17 @@
+{
+  "name": "bangumi-history-marker",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Bangumi 补标助手：按月份批量补标看过的动画",
+  "scripts": {
+    "dev": "rspack serve",
+    "build": "rspack build --mode production",
+    "typecheck": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@rspack/cli": "^1.5.0",
+    "@rspack/core": "^1.5.0",
+    "@types/node": "^22.10.0",
+    "typescript": "^5.7.0"
+  }
+}
