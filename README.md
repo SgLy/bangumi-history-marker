@@ -2,6 +2,8 @@
 
 按季度浏览动画，勾选你早就看过、却一直没标记的作品，批量补标为「看过」。
 
+[GitHub Pages 部署](https://sgly.github.io/bangumi-history-marker/)
+
 ## 功能
 
 - 按季度（春 / 夏 / 秋 / 冬）浏览热门动画，分页加载。
